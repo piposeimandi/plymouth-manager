@@ -1,6 +1,6 @@
 #!/bin/sh
 # install.sh - Installer for Plymouth Manager
-# Copyright (C) 2020 x1unix
+# Copyright (C) x1unix
 # Copyright (C) 2025 piposeimandi
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
