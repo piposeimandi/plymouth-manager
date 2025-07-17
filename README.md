@@ -22,7 +22,7 @@ Make sure these commands are installed on your system before using Plymouth Mana
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/x1unix/plymouth-manager/master/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/piposeimandi/plymouth-manager/main/install.sh | bash
 ```
 Or download the script manually and make it executable:
 
