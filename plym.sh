@@ -1,3 +1,4 @@
+#!/bin/bash
 # plym.sh - Plymouth Manager
 # Copyright (C) 2020 x1unix
 # Copyright (C) 2025 piposeimandi
@@ -13,7 +14,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
-#!/bin/bash
+
 
 set -eu  # fail on error or unbound variable
 
