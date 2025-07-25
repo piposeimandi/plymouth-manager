@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # install.sh - Installer for Plymouth Manager
 # Copyright (C) x1unix
 # Copyright (C) 2025 piposeimandi
@@ -16,7 +16,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 set -euo pipefail
 
-DOWNLOAD_URL="https://raw.githubusercontent.com/piposeimandi/plymouth-manager/main/plym.sh"
+DOWNLOAD_URL="https://raw.githubusercontent.com/piposeimandi/plymouth-manager/master/plym.sh"
 TMP_FILE="/tmp/plym.$$"
 DEST="/usr/local/bin/plym"
 
